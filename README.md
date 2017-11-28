@@ -8,3 +8,4 @@ Links to good data sets for visualization, data science, machine learning, eda e
 - [19 Free Public Data Sets For Your First Data Science Project](https://www.springboard.com/blog/free-public-data-sets-data-science-project/)
 - [Google's pretrained data for word2vec analysis](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit)
 - [Google Research](https://research.google.com/research-outreach.html#/research-outreach/research-datasets)
+- [Text data for email spam classification](http://csmining.org/index.php/spam-email-datasets-.html)
