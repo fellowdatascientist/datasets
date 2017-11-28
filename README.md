@@ -9,6 +9,7 @@ Links to good data sets for visualization, data science, machine learning, eda e
 
 
 ### Sports
+- [ODI Cricket Data](https://github.com/fellowdatascientist/datasets/raw/master/odi-batting.zip)
 
 ### Poltics, Government, Census etc.,
 - 
