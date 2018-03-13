@@ -7,7 +7,7 @@ Links to good data sets for visualization, data science, machine learning, eda e
 - [19 Free Public Data Sets For Your First Data Science Project](https://www.springboard.com/blog/free-public-data-sets-data-science-project/)
 - [Google Research](https://research.google.com/research-outreach.html#/research-outreach/research-datasets)
 - [Data Packaged Core Datasets](https://github.com/datasets)
-- []()
+- [Online APIs](https://github.com/toddmotto/public-apis)
 
 ### Sports
 - [ODI Cricket Data](https://github.com/fellowdatascientist/datasets/raw/master/odi-batting.zip)
